@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 
-This is the course project for the Getting and Cleaning Data Coursera course. The R script, Peer-graded Assignment Getting and Cleaning Data Course Project.R, does the following:
+This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
     1. Download the dataset
     2. Unzips the dataset
